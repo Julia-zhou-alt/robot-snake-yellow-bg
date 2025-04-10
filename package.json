@@ -1,11 +1,13 @@
 {
-      "name": "snake-game",
-      "version": "1.0.0",
-      "description": "貪食蛇遊戲",
-      "scripts": {
-            "dev": "vite"
-      },
-      "devDependencies": {
-            "vite": "^4.5.12"
-      }
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "貪食蛇遊戲",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.5.12"
+  }
 }
